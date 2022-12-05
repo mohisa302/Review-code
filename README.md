@@ -23,13 +23,12 @@ feature-a
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
-**[Hello Microverse]** is a begining in my Microverse journey!
+# 📖 [Code review] <a name="about-project"></a>
+**[Code review]** is a my first code review!
 
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Key Features <a name="key-features"></a>
-- **[using linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,7 +40,7 @@ feature-a
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-new developers can use this project to get familiar with basic programmers tools and templates
+you can see here how review a code 😎
 
 
 
@@ -56,10 +55,6 @@ new developers can use this project to get familiar with basic programmers tools
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mohadese-sadeghi-692551199/)
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[will improve page elements]**
-- [ ] **[will improve styles]**
-- [ ] **[will add js]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,25 +75,17 @@ If you like this project give me star!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my favorite mentor Houda Mzari
+I would like to thank my favorite mentor Houda Mzari, and this code writer @jonas-45 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ <a name="faq"></a>
-- **[How this project help me in my first days?]**
+- **How this project help me in my first days?**
 
-  - [This project includes most of the tools which you are going to use for your codes]
-
-- **[What is Microverse?]**
-
-  - [Microverse is one of the most awesome coding school!]
+  - help you learn how review a code
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-# Hello Microverse
-Hello Microverse Project
- main
