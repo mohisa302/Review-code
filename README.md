@@ -47,12 +47,17 @@ you can see here how review a code 😎
 ## 👥 Authors <a name="authors"></a>
 
 @mohisa302
+@jonas-45
 
 👤 **Author1**
 
 - GitHub: [@mohisa302](https://github.com/mohisa302)
 - Twitter: [@Kholochelam](https://twitter.com/Kholochelam)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mohadese-sadeghi-692551199/)
+
+👤 **Author2**
+
+- GitHub: [@jonas-45](https://github.com/jonas-45)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
